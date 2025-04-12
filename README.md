@@ -157,26 +157,27 @@ Portfolio-Website/
 
 Here are the Output Screenshots :
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%201.png)
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%202.png)
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%203.png)
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%204.png)
 
-  ![Image Alt](image_url)
+  ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%205.png)
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%206.png)
 
-  ![Image Alt](image_url)
+  ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%207.png)
 
-   ![Image Alt](image_url)
+   ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%208.png)
 
-   ![Image Alt](image_url)
+   ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%209.png)
 
-   ![Image Alt](image_url)
+   ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%2010.png)
 
+   ![Image Alt](https://github.com/pallavi1828/Portfolio-Website/blob/94352a7d9f6cba8ab52c9c6342467184181ec854/Output%2011.png)
  
  
 
